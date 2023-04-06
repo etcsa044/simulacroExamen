@@ -1,9 +1,8 @@
 # simulacroExamen
+
 Practica Examen Intro a la Informatica.
 
 Comida Favorita.
 
 Charlie / Asadoooo
-
-
-
+Pablo / Milanesa
